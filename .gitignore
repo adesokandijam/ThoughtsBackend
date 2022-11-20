@@ -1,0 +1,6 @@
+.pytest_cache/*
+.pytest_cache
+db.sqlite3
+key.pem
+key.pub
+/thoughts_backend/config.py
